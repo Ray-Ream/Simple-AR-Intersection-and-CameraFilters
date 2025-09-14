@@ -12,14 +12,14 @@ It is implemented in Python and can run purely on CPU, without requiring GPU acc
 The interaction works in real time with a computer camera or external webcam.  
 
 功能 Features  
--使用 MediaPipe 偵測臉部 / 手部關鍵點  
--在畫面中即時疊加圖像 (範例：眼鏡、貼紙、圖示)  
--支援一般電腦與 webcam  
--輕量化運算，CPU 即可執行  
--Face / Hand landmark detection via MediaPipe  
--Real-time overlay of images (e.g., glasses, stickers, icons)  
--Works with computer camera / webcam  
--CPU-friendly, no GPU required  
+- 使用 MediaPipe 偵測臉部 / 手部關鍵點  
+- 在畫面中即時疊加圖像 (範例：眼鏡、貼紙、圖示)  
+- 支援一般電腦與 webcam  
+- 輕量化運算，CPU 即可執行  
+- Face / Hand landmark detection via MediaPipe  
+- Real-time overlay of images (e.g., glasses, stickers, icons)  
+- Works with computer camera / webcam  
+- CPU-friendly, no GPU required  
 
 環境需求 Requirements  
 -Python 3.8+  
