@@ -22,7 +22,7 @@ The interaction works in real time with a computer camera or external webcam.
 - CPU-friendly, no GPU required  
 
 環境需求 Requirements  
--Python 3.8+  
--OpenCV  
--MediaPipe  
+- Python 3.8+  
+- OpenCV  
+- MediaPipe  
 ```pip install opencv-python mediapipe```
