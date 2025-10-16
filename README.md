@@ -31,3 +31,13 @@ Clone the repository:
 ```sh
 https://github.com/Ray-Ream/Simple-AR-Intersection-and-CameraFilters.git
 ```
+
+---
+
+### AR Overlay Interaction  
+Overlay any selected image onto eyes, hands, or face in webcam captured images
+
+---
+
+### Camera Filters  
+Use Python to implement various special effects filters: glass filter, oil painting filter, old filter
